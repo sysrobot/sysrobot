@@ -33,8 +33,8 @@ Although I have not completed these languages, I deeply aspire to & I am not lim
 ---
 
 ## Certificates
-- [ ] N/A
-
+- [ X ]
+However, I plan on taking the CCNA, CompTIA Security + & Offensive security related certificates. 
 ---
 
 ## Projects / Labs
